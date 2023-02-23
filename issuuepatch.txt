@@ -1,0 +1,8 @@
+diff --git a/demodiff.txt b/demodiff.txt
+index aa2df2d..c82735e 100644
+--- a/demodiff.txt
++++ b/demodiff.txt
+@@ -1 +1,2 @@
+-Helllo
++hai
++this is the demo of diff command
